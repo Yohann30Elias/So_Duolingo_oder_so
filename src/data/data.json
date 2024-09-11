@@ -5,13 +5,48 @@
         "uebersetzung": "Lösung"
     },
     {
-        "satz": "2",
-        "wort": "solution",
-        "uebersetzung": "4"
+        "satz": "He quickly implemented the **idea** to improve efficiency",
+        "wort": "idea",
+        "uebersetzung": "Idee"
     },
     {
-        "satz": "3",
-        "wort": "solution",
-        "uebersetzung": "6"
+        "satz": "The team worked together to find a **strategy** for the issue",
+        "wort": "strategy",
+        "uebersetzung": "Strategie"
+    },
+    {
+        "satz": "We need a creative **approach** to this challenge",
+        "wort": "approach",
+        "uebersetzung": "Ansatz"
+    },
+    {
+        "satz": "Her **decision** changed the course of the project",
+        "wort": "decision",
+        "uebersetzung": "Entscheidung"
+    },
+    {
+        "satz": "He gave a clear **explanation** of the concept",
+        "wort": "explanation",
+        "uebersetzung": "Erklärung"
+    },
+    {
+        "satz": "The **plan** was executed flawlessly",
+        "wort": "plan",
+        "uebersetzung": "Plan"
+    },
+    {
+        "satz": "Their **goal** was to finish the project on time",
+        "wort": "goal",
+        "uebersetzung": "Ziel"
+    },
+    {
+        "satz": "The company provided a new **service**",
+        "wort": "service",
+        "uebersetzung": "Dienstleistung"
+    },
+    {
+        "satz": "The **proposal** was accepted by the board",
+        "wort": "proposal",
+        "uebersetzung": "Vorschlag"
     }
 ]
